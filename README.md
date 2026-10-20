@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C5CFF,50:2563EB,100:22D3EE&text=Norbu%20Ciren&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Developer%20who%20enjoys%20coding&descSize=20&descAlignY=58&animation=fadeIn" alt="Norbu Ciren — Developer who enjoys coding" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C5CFF,50:2563EB,100:22D3EE&text=Norbu%20Ciren&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=Developer%20who%20enjoys%20coding&descSize=20&descAlignY=62&animation=fadeIn" alt="Norbu Ciren — Developer who enjoys coding" width="100%">
 </p>
 
 <p align="center">
@@ -47,8 +47,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NorbuC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7C5CFF&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" height="170" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=NorbuC&hide_border=true&theme=tokyonight&background=0D1117&ring=7C5CFF&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" height="170" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com?user=NorbuC&hide_border=true&theme=tokyonight&background=0D1117&ring=7C5CFF&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" height="190" alt="Contribution streak">
 </p>
 
 <br>
