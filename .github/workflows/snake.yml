@@ -1,3 +1,4 @@
+# Actions pinned to exact commits (update the SHA + comment to upgrade).
 # Turns the contribution graph into a snake animation, daily. Output goes to the `output` branch.
 name: Snake
 on:
@@ -5,18 +6,20 @@ on:
   workflow_dispatch:
   push: { branches: [main] }
 permissions:
-  contents: write
+  contents: read
 jobs:
   snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # only to publish the SVGs to the output branch
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-light.svg?color_snake=#7C5CFF&color_dots=#ebedf0,#c9c2ff,#a597ff,#7C5CFF,#5b3fe0
             dist/snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#161b22,#1e3a5f,#2563eb,#7C5CFF,#22D3EE
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
         with:
           target_branch: output
           build_dir: dist
