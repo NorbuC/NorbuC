@@ -8,8 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/norbu-ciren-953428339"><img src="https://img.shields.io/badge/LinkedIn-Norbu%20Ciren-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=NorbuC&style=for-the-badge&color=7C5CFF&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <br>
